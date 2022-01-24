@@ -1,0 +1,5 @@
+#exercise
+hours=input("enter hours:")
+rate_per_hour=input("Enter rate per hour: ")
+gross_pay=int(hours)*int(rate_per_hour)
+print(gross_pay)
