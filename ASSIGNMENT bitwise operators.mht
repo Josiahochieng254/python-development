@@ -1,0 +1,5 @@
+height=[["John",170],["Bob",172],["Alice",150]]
+
+if max(height):
+    print(height)
+    print("Alice is the tallest")
